@@ -1,8 +1,8 @@
 name: key_hash
 description: A plugin to get the keyhash project.
 version: 0.0.1
-author: GunFZ
-homepage:
+author: GunFZ(studiogunfz@gmail.com)
+homepage: https://github.com/GunFZ/FlutterKeyHash
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
